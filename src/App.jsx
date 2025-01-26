@@ -1,5 +1,4 @@
 import Navbar from './components/navbar'
-import Main from "./components/mainArea"
 import Joke from "./components/joke"
 
 const jokesData = [
